@@ -30,7 +30,7 @@ Successfully identified and fixed mismatched product images where the visual rep
 #### 1. Remote Control Car
 **Problem:** Image didn't show an actual RC toy car
 **Solution:** Updated to show a proper toy car representation
-**New Image:** `products/remote-control-car_final.jpg`
+**New Image:** `products\remote-control-car_ultra_precise.jpg`
 **Accuracy:** ✅ Now shows actual toy/RC car
 
 ### 🎵 Music & Movies Category
@@ -46,7 +46,7 @@ Successfully identified and fixed mismatched product images where the visual rep
 #### 1. Building Blocks Set
 **Problem:** Image could be more representative of building blocks
 **Solution:** Updated to show colorful toy blocks
-**New Image:** `products/building-blocks-set_corrected.jpg`
+**New Image:** `products\building-block-set_ultra_precise.jpg`
 **Accuracy:** ✅ Better toy representation
 
 ## Technical Implementation

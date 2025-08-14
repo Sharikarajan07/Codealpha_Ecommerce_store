@@ -183,7 +183,7 @@ input:checked + .theme-slider .moon-icon {
     transform: translateY(-8px);
     box-shadow: 0 12px 30px rgba(0, 123, 255, 0.2);
 }
-}
+
 
 .product-card .card-text {
     color: var(--text-secondary);
